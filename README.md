@@ -8,6 +8,6 @@ The Bincoff function generates an inverted version of the n'th vector in the bin
 > Bincoff(9)
 > [9,  -36,   84, -126,  126,  -84,   36,   -9,    1]
 ```
-The  above example gives a vector output corresponding to the coeeficients of the following series and identity:
+The  above example gives a vector output corresponding to the coeeficients of the following series :
 
 <img src="https://i.gyazo.com/eca2270d587cd9262edc1bebe40d2bc3.png" height="50">
